@@ -1,0 +1,14 @@
+* Install Node.js on local machine.
+
+* Install phantomJs using npm
+** use the command:
+   > npm install -g phantomjs
+
+* Create a file with an extension "js"
+** e.g. myscript.js
+** Write the phantomJs steps in the said file to open a site and fill in the details and capture the screenshots.
+
+* Execute the above created file
+** Open the terminal in the current window and run the following command
+   > phantomjs myscript.js
+
